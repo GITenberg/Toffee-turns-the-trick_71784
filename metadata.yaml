@@ -1,0 +1,46 @@
+_repo: Toffee-turns-the-trick_71784
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Finlay, Virgil
+    alias: Finlay
+    birthdate: 1914
+    deathdate: 1971
+    gutenberg_agent_id: '26786'
+    url: http://www.gutenberg.org/2009/agents/26786
+    wikipedia: https://en.wikipedia.org/wiki/Virgil_Finlay
+creator:
+  author:
+    agent_name: Farrell, Henry
+    aliases:
+    - Myers, Charles Farrell
+    - Myers, Charles F.
+    - Myers, Charles Henry
+    birthdate: 1920
+    deathdate: 2006
+    gutenberg_agent_id: '53188'
+    url: http://www.gutenberg.org/2009/agents/53188
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Farrell
+description: ''
+gutenberg_issued: '2023-10-03'
+identifiers:
+  gutenberg: '71784'
+language: en
+pgterms:marc905: 20230822055414myers
+pgterms:marc906: '1948'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aChicago, IL :$bZiff-Davis Publishing Company, $c1948.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Toffee
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Subconsciousness -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Toffee turns the trick
+url: http://www.gutenberg.org/ebooks/71784
